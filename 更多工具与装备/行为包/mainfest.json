@@ -1,0 +1,33 @@
+{
+
+    "format_version": 1,
+
+    "header": {
+
+    "uuid": "2aba1a5a-9131-11ec-b909-0242ac120002",//uuid采用十六进制
+
+    "name": "ZKG-更多的工具与装备",
+
+    "version": [0, 0, 1],//资源包的版本
+
+    "description": "ZKG御用",
+
+    "modules": [
+
+      {
+
+        "description": "ZKG御用",
+
+        "version": [0, 0, 1],//子资源包版本
+
+        "uuid": "d2eef089-4d62-402e-9b84-780ee68cc398",//uuid采用十六进制
+
+        "type": "data"//"data"表示该包为行为包，"resources"则表示该包为材质包
+
+      }
+
+    ]
+
+  }
+
+}
